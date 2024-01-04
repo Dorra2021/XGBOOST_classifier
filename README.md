@@ -1,2 +1,2 @@
 # XGBOOST_classifier
-application de XGBOOST sur un data set de "Heart Disease"
+application de XGBOOST sur un dataset de "Heart Disease"
